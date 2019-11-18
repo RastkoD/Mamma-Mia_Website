@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function MobileSingleFeature1() {
   return (
@@ -15,12 +16,12 @@ export default function MobileSingleFeature1() {
           brašno Agugiaro & Fignan namenjeno specijalno za pice.{' '}
         </p>
 
-        <a href='http://localhost:3000/menu'>
+        <Link to='/menu'>
           <button className='MobileFeatureButton'>
             <h6 className='MobileFeatureButtonText'>Jelovnik</h6>
             <div className='MobileFeatureButtonTextUnderline'></div>
           </button>
-        </a>
+        </Link>
       </div>
     </div>
   );

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function MobileSingleFeature2() {
   return (
@@ -15,12 +16,12 @@ export default function MobileSingleFeature2() {
           Pizzoli. Pice se peku u najboljim pica pećima iz Italije.
         </p>
 
-        <a href='http://localhost:3000/ourstory'>
+        <Link to='/ourstory'>
           <button className='MobileFeatureButton'>
             <h6 className='MobileFeatureButtonText'>O nama</h6>
             <div className='MobileFeatureButtonTextUnderline'></div>
           </button>
-        </a>
+        </Link>
       </div>
     </div>
   );

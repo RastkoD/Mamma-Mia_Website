@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import DarkRightColumn from './DesktopComp/DarkRightColumn';
 import BottomFeature from './DesktopComp/BottomFeature';
@@ -41,7 +42,7 @@ export default function Landing() {
               </p>
             </div>
 
-            <a href='http://localhost:3000/booking'>
+            <Link to='/booking'>
               <button className='MobileLandingButton' id='MobileLandingButton'>
                 <h6
                   className='MobileLandingButtonText'
@@ -50,7 +51,7 @@ export default function Landing() {
                   Rezervacija
                 </h6>
               </button>
-            </a>
+            </Link>
           </div>
         </section>
 
@@ -84,7 +85,7 @@ export default function Landing() {
               </p>
             </div>
 
-            <a href='http://localhost:3000/experience'>
+            <Link to='/experience'>
               <button className='MobileLandingButton' id='MobileLandingButton'>
                 <h6
                   className='MobileLandingButtonText'
@@ -93,7 +94,7 @@ export default function Landing() {
                   Ambijent
                 </h6>
               </button>
-            </a>
+            </Link>
           </div>
         </section>
 
@@ -125,7 +126,7 @@ export default function Landing() {
               </p>
             </div>
 
-            <a href='http://localhost:3000/booking'>
+            <Link to='/booking'>
               <button className='MobileLandingButton' id='MobileLandingButton'>
                 <h6
                   className='MobileLandingButtonText'
@@ -134,7 +135,7 @@ export default function Landing() {
                   Rezervacija
                 </h6>
               </button>
-            </a>
+            </Link>
           </div>
         </section>
 
@@ -166,7 +167,7 @@ export default function Landing() {
               </p>
             </div>
 
-            <a href='http://localhost:3000/ourstory'>
+            <Link to='/ourstory'>
               <button className='MobileLandingButton' id='MobileLandingButton'>
                 <h6
                   className='MobileLandingButtonText'
@@ -175,7 +176,7 @@ export default function Landing() {
                   O Nama
                 </h6>
               </button>
-            </a>
+            </Link>
           </div>
         </section>
 

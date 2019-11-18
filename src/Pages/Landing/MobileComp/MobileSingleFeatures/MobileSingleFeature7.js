@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function MobileSingleFeature7() {
   return (
@@ -16,12 +17,12 @@ export default function MobileSingleFeature7() {
           dissentiet.{' '}
         </p>
 
-        <a href='http://localhost:3000/experience'>
+        <Link to='/experience'>
           <button className='MobileFeatureButton'>
             <h6 className='MobileFeatureButtonText'>Ambijent</h6>
             <div className='MobileFeatureButtonTextUnderline'></div>
           </button>
-        </a>
+        </Link>
       </div>
     </div>
   );
