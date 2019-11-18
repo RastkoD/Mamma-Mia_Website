@@ -5,7 +5,7 @@
 
 # What I learned
 
- * [x] Responsive first design
+ * [x] Mobile first design
  * [x] ReactJS, React Router, React Dom
  * [x] Lots of CSS(SASS) 
  * [x] UI/UX
