@@ -1,7 +1,7 @@
 # Mamma Mia - website for a local Italian restaurant
 #### This is a website for an Italian Pizza Restaurant created with ReactJS.
 
-### :rocket: [DEMO](https://virgil.netlify.com/)
+### :rocket: [DEMO](https://mamma-mia.netlify.com/)
 
 # What I learned
 
