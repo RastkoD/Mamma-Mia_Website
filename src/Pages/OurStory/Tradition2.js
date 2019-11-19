@@ -9,9 +9,9 @@ export default function Tradition2() {
       </div>
 
       <div className='Story-Tradition-TextWrap' id='Story-Tradition-TextWrap'>
-        <h5 className='Story-Tradition-Header'>Poštujemo</h5>
+        <h5 className='Story-Tradition-Header'>Iskusite</h5>
         <h3 className='Story-Tradition-Title' id='Story-Tradition-Title'>
-          Tradiciju
+          Poštujemo Tradiciju
         </h3>
         <p className='Story-Tradition-Text' id='Story-Tradition-Text'>
           Ad natum commodo hendrerit nec. Ut reque doctus debitis eos, et ius
