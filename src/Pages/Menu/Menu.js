@@ -134,7 +134,7 @@ export default function Menu() {
       <div className='Menu-Section Menu-Section2' id='Menu-Section'>
         <div className='Category Lunch'>
           <h2 className='Menu-CategoryTitle' id='Menu-CategoryTitle'>
-            Mamma Spicijaliteti
+            Mamma Specijaliteti
           </h2>
           <div className='MenuItemWrap'>
             <div className='MenuItem-TopRow'>
