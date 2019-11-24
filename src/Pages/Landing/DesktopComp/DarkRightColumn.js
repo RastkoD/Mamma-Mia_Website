@@ -29,7 +29,7 @@ export default function DarkColumn() {
         </button>
 
         <h5 className='Footer-CopyRight' id='Footer-CopyRight'>
-          Mamma Mia © 2019. All Rights Reserved｜by <a style='z-index: 3; cursor: pointer;' href='https://ogtech.netlify.com/' target='_blank'>OGTech</a>
+          Mamma Mia © 2019. All Rights Reserved｜by <a href='https://ogtech.netlify.com/' target='_blank'>OGTech</a>
         </h5>
       </div>
     </div>
