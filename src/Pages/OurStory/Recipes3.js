@@ -9,7 +9,7 @@ export default function Recipes3() {
       </div>
 
       <div className='Story-Recipes-TextWrap' id='Story-Recipes-TextWrap'>
-        <h5 className='Story-Recipes-Header'>Autentični</h5>
+        <h5 className='Story-Recipes-Header'>Autentičnost</h5>
         <h3 className='Story-Recipes-Title' id='Story-Recipes-Title'>
           Recepti i sastojci
         </h3>
