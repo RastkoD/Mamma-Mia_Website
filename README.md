@@ -9,3 +9,4 @@
  * [x] ReactJS, React Router, React Dom
  * [x] Lots of CSS(SASS) 
  * [x] UI/UX
+ * [ ] Get a better home page image
